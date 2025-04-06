@@ -11,6 +11,7 @@ export const Container = () => {
   return (
     <div className='container'>
       {/* componente principal */}
+      <Principal/>
       <Cards />
     </div>
   )
