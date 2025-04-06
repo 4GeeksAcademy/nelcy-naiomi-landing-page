@@ -9,8 +9,7 @@ export const Container = () => {
 
 
   return (
-    <div className='container'>
-      {/* componente principal */}
+    <div className='container mb-4'>
       <Cards />
     </div>
   )
