@@ -9,9 +9,8 @@ export const Container = () => {
 
 
   return (
-    <div className='container'>
-      {/* componente principal */}
-      <Principal/>
+    <div className='container mb-4'>
+      <Principal />
       <Cards />
     </div>
   )
